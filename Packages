@@ -1,0 +1,20 @@
+Package: org.chronic-dev.animate
+Version: 1.0.1-2~junipersz
+Architecture: iphoneos-arm
+Maintainer: Juniper Shepherd <juniperdev@outlook.com>
+Installed-Size: 188
+Depends: preferenceloader
+Filename: pkgs/org.chronic-dev.animate-1.0.1-2~junipersz.deb
+Size: 128992
+MD5sum: dd17f571ededa8cabf08c1caea2058bb
+SHA1: 1dc2ca67aa65f5496d0af3547f9170b6e3a5cd3e
+SHA256: 900d93ceddb142c451d808c02c395bb753ac442f1110317a88c5db88fab7d366
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Description: Boot Logo Animations for 4.2.1 untether
+Author: Chronic-Dev Inc. <jaywalker@chronic-dev.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Dev: chronic-dev
+Name: animate
+Sponsor: thebigboss.org <http://thebigboss.org>
+
