@@ -1,0 +1,9 @@
+Origin: junipersz's Cydia Repo
+Label: junipersz Legacy
+Suite: stable
+Version: 0.1
+Codename: blue-diamond
+Architectures: iphoneos-arm
+Components: main
+Description: A Cydia repository for Legacy iOS apps and tweaks, created, repaired or hosted by junipersz
+

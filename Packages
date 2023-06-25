@@ -1,3 +1,37 @@
+Package: blue-diamond-zeppelin-icon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Juniper Shepherd (junipersz) <juniperdev@outlook.com>
+Installed-Size: 36
+Depends: com.alexzielenski.zeppelin
+Filename: pkgs/blue-diamond-zeppelin-icon-1.0.deb
+Size: 10274
+MD5sum: 739fb3502f0affdd6b73fb85373facb2
+SHA1: 95e7f1223fca3f925a8016c3adb6bb6d2667c996
+SHA256: a78cb6148eb81035d81784c6b934205c676aefd461055cceb22524a19d9f852a
+Section: misc
+Description: Blue Diamond (Steven Universe) Zeppelin Icon
+Author: Juniper Shepherd (junipersz) <juniperdev@outlook.com>
+Dev: junipersz
+Name: Blue Diamond
+
+Package: diamond-authority-bootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Juniper Shepherd (junipersz) <juniperdev@outlook.com>
+Installed-Size: 188
+Depends: org.chronic-dev.animate
+Filename: pkgs/diamond-authority-bootlogo-1.0.deb
+Size: 81878
+MD5sum: cda200ec6444462f943a337a7ec92b2b
+SHA1: 7ffa4d7854020b0f6e842cdd54c32e72b3fdf568
+SHA256: d3de616dd96db3c529ea3e51398e7eaf8ab304f137f2aac7265eafecba1aa7c0
+Section: misc
+Description: Diamond Authority Boot Logo
+Author: Juniper Shepherd (junipersz) <juniperdev@outlook.com>
+Dev: junipersz
+Name: Diamond Authority
+
 Package: org.chronic-dev.animate
 Version: 1.0.1-2~junipersz
 Architecture: iphoneos-arm
